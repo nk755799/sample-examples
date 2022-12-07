@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.levo.dockerexample</groupId>
-    <artifactId>docker-java-app-naresh</artifactId>
+    <artifactId>docker-java-app-example</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0-SNAPSHOT</version>
-    <name>docker-java-app-naresh</name>
+    <name>docker-java-app-example</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -71,10 +71,10 @@
     </build>
 
   <scm>
-    <connection>https://github.com/nk755799/sample-examples.git</connection>
-    <developerConnection>https://github.com/nk755799/sample-examples.git</developerConnection>
+    <connection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</connection>
+    <developerConnection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</developerConnection>
     <tag>HEAD</tag>
-    <url>https://github.com/nk755799/sample-examples.git</url>
+    <url>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</url>
   </scm>
 
 </project>
