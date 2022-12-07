@@ -71,10 +71,10 @@
     </build>
 
   <scm>
-    <connection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</connection>
-    <developerConnection>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</developerConnection>
+    <connection>https://github.com/nk755799/sample-examples.git</connection>
+    <developerConnection>https://github.com/nk755799/sample-examples.git</developerConnection>
     <tag>HEAD</tag>
-    <url>scm:git:https://github.com/eficensdevops/sample-springboot-example.git</url>
+    <url>https://github.com/nk755799/sample-examples.git</url>
   </scm>
 
 </project>
