@@ -3,7 +3,7 @@
     <groupId>com.levo.dockerexample</groupId>
     <artifactId>docker-java-app-example-nareshkalluri</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <name>docker-java-app-example</name>
     <url>http://maven.apache.org</url>
 
@@ -82,7 +82,7 @@
   <scm>
     <connection>scm:git:https://github.com/nk755799/sample-examples.git</connection>
     <developerConnection>scm:git:https://github.com/nk755799/sample-examples.git</developerConnection>
-    <tag>1.0.2</tag>
+    <tag>HEAD</tag>
     <url>scm:git:https://github.com/nk755799/sample-examples.git</url>
   </scm>
 
